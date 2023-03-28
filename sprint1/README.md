@@ -1,9 +1,8 @@
-# CEPASIMAL
-## PROJET - SPRINT 1
-### SUJET
+# Cepasimal Java
+## Projet - Sprint 1
 Le but de ce projet est de créer un programme simulant un jeu d'affrontement, entre deux joueurs, au tour par tour, style RPG.
 
-### NOTIONS
+### Notions
 + Classes
 + Attributs
 + Constructeurs
@@ -12,7 +11,7 @@ Le but de ce projet est de créer un programme simulant un jeu d'affrontement, e
 + Création de message avec toString()
 + Programme principal main() et sortie console avec System.out()
 
-### DEROULÉ
+### Sujet
 Le Sprint 1 doit permettre de poser les bases de l'affrontement. Un joueur doit pouvoir attaquer un autre joueur.
 
 Les joueurs sont caractérisés par un **nom** ainsi que d'une statistique pour leur **nombre de points de vie**. Chaque joueur possède également une **attaque**.
@@ -29,7 +28,7 @@ A la fin du tour, la console doit afficher le nombre de points de vie restant à
 
 Le programme se termine à ce moment. Il n'y a **aucune** intervention humaine durant ce programme.
 
-### CONTRAINTES
+### Contraintes
 Il est possible d'arriver à ce résultat de différentes manières.
 Il faut garder toutefois en tête que votre but est de trouver **la solution qui couvre le plus grand nombre de cas possibles** 👆
 
