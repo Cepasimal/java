@@ -1,14 +1,13 @@
-# CEPASIMAL
-## PROJET - SPRINT 3
-### SUJET
+# Cepasimal - Java
+## Projet - Sprint 3
 Le but de ce projet est de créer un programme simulant un jeu d'affrontement, entre deux joueurs, au tour par tour, style RPG.
 
-### NOTIONS
+### Notions
 + Manipulation de liste avancée
 + Manipulation de valeurs randomisées (Random ou Math.rand)
 + Manipulation d’algorithmie plus complexe
 
-### DEROULÉ
+### Sujet
 Le Sprint 3 doit permettre d'étoffer les options de combats.
 
 Les joueurs possèdent maintenant des statistiques :
@@ -34,8 +33,7 @@ Tout comme l'action **"Analyse"**, cette action **ne mets pas fin au tour du jou
 
 L'action "Soin" n'est pas possible si le joueur ne possède plus de potion.
 
-### CONTRAINTES
-
+### Contraintes
 Les valeurs de vos variables ne sont pas importantes. Ce qui compte vraiment, c'est la solidité de votre code et de votre architecture.
 
 Bon courage ! 🌟
