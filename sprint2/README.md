@@ -28,7 +28,7 @@ Les actions possibles des joueurs durant un tour sont les suivantes :
 + **Attaquer** : L'utilisateur doit choisir une attaque à effectuer sur l'adversaire via la console **parmis la liste d'attaque du joueur**. La console doit afficher les informations relatives à l'attaque choisie. Cette action **mets fin au tour du joueur**.
 + **Fuir** : Le joueur abandonne le combat. Cette action **mets fin au tour du joueur ainsi qu'à la partie**.
 
-### Contraintes
+### Remarques
 Les valeurs de vos variables ne sont pas importantes. Ce qui compte vraiment, c'est la solidité de votre code et de votre architecture.
 
 Bon courage ! 🌟
