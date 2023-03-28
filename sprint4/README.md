@@ -21,7 +21,7 @@ Il faut essayer de créer une architecture viable sur le long terme qui permette
 
 Par exemple, on doit pouvoir ajouter un bot GigaHardBot sans que cela ait un impact sur les autres classes du programme.
 
-### Contraintes
+### Remarques
 Les valeurs de vos variables ne sont pas importantes. Ce qui compte vraiment, c'est la solidité de votre code et de votre architecture.
 
 Bon courage ! 🌟
