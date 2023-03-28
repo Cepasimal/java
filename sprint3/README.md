@@ -33,7 +33,7 @@ Tout comme l'action **"Analyse"**, cette action **ne mets pas fin au tour du jou
 
 L'action "Soin" n'est pas possible si le joueur ne possède plus de potion.
 
-### Contraintes
+### Remarques
 Les valeurs de vos variables ne sont pas importantes. Ce qui compte vraiment, c'est la solidité de votre code et de votre architecture.
 
 Bon courage ! 🌟
