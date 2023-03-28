@@ -1,15 +1,13 @@
-# CEPASIMAL
-
-## PROJET - SPRINT 4
-### SUJET
+# Cepasimal - Java
+## Projet - Sprint 4
 Le but de ce projet est de créer un programme simulant un jeu d'affrontement, entre deux joueurs, au tour par tour, style RPG.
 
-### NOTIONS
+### Notions
 + Manipuler la notion d’héritage et de superclasse
 + Manipuler la notion de polymorphisme
 + Manipuler la notion d’implémentation d’interfaces
 
-### DEROULÉ
+### Sujet
 Le Sprint 4 doit permettre de combattre des bots (pas très intelligents)
 
 Les bots ont des niveaux de difficulté différents :
@@ -23,8 +21,7 @@ Il faut essayer de créer une architecture viable sur le long terme qui permette
 
 Par exemple, on doit pouvoir ajouter un bot GigaHardBot sans que cela ait un impact sur les autres classes du programme.
 
-### CONTRAINTES
-
+### Contraintes
 Les valeurs de vos variables ne sont pas importantes. Ce qui compte vraiment, c'est la solidité de votre code et de votre architecture.
 
 Bon courage ! 🌟
