@@ -1,4 +1,4 @@
-# Cepasimal Java
+# Cepasimal - Java
 ## Projet - Sprint 1
 Le but de ce projet est de créer un programme simulant un jeu d'affrontement, entre deux joueurs, au tour par tour, style RPG.
 
@@ -28,7 +28,7 @@ A la fin du tour, la console doit afficher le nombre de points de vie restant à
 
 Le programme se termine à ce moment. Il n'y a **aucune** intervention humaine durant ce programme.
 
-### Contraintes
+### Remarques
 Il est possible d'arriver à ce résultat de différentes manières.
 Il faut garder toutefois en tête que votre but est de trouver **la solution qui couvre le plus grand nombre de cas possibles** 👆
 
