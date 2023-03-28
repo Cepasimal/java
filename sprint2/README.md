@@ -1,15 +1,14 @@
-# CEPASIMAL
-## PROJET - SPRINT 2
-### SUJET
+# Cepasimal - Java
+## Projet - Sprint 2
 Le but de ce projet est de créer un programme simulant un jeu d'affrontement, entre deux joueurs, au tour par tour, style RPG.
 
-### NOTIONS
+### Notions
 + Boucles de contrôles
 + Manipulations de listes avec ArrayList
 + Entrée console avec Scanner
 + Manipulation de message avec StringBuilder
 
-### DEROULÉ
+### Sujet
 Le Sprint 2 doit permettre à l'utilisateur **d'intéragir** avec le programme de jeu via une **interface de commandes**.
 
 Le programme de jeu doit permettre de jouer **plusieurs tours** jusqu'à la fin de la partie.
@@ -29,7 +28,7 @@ Les actions possibles des joueurs durant un tour sont les suivantes :
 + **Attaquer** : L'utilisateur doit choisir une attaque à effectuer sur l'adversaire via la console **parmis la liste d'attaque du joueur**. La console doit afficher les informations relatives à l'attaque choisie. Cette action **mets fin au tour du joueur**.
 + **Fuir** : Le joueur abandonne le combat. Cette action **mets fin au tour du joueur ainsi qu'à la partie**.
 
-### CONTRAINTES
+### Contraintes
 Les valeurs de vos variables ne sont pas importantes. Ce qui compte vraiment, c'est la solidité de votre code et de votre architecture.
 
 Bon courage ! 🌟
