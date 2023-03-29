@@ -2,5 +2,5 @@
 
 ## Sujets
 
-Voici des sprints pour pratiquer le Java. 
-Vous pouvez les consulter sur ce github où télécharger le zip en cliquant sur le bouton vert "Code" puis "Download ZIP".
+Vous trouverez ici tous les énoncés de nos exercices. Dans certains cas, en plus des consignes, il vous sera demander de récupérer des fichiers pour pouvoir
+réaliser l'exercice. Vous pouvez télécharger le contenu du répertoire git en cliquant sur le bouton vert "Code" puis "Download ZIP"
